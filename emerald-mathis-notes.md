@@ -755,6 +755,8 @@ Special Types: In Generations I to III, when damage is being calculated for a mo
 (this thread is a goldmine of sets that real people have used and deserves at least a day to sift through...)
 - [smogon battle pyramid wild pokemon](http://www.smogon.com/ingame/bt/battle_pyramid)
 (useful to have open so you can bring pokemon that will address specific 'rounds')
+
+### random links
 - [comment detailing where to get all the TM's](https://www.supercheats.com/gameboyadvance/questions/pokemonemerald/78590/where-can-you-get-the-best-tms.htm)
 - [smogon ev training guide](https://www.smogon.com/ingame/guides/emerald_ev_manual)
 - [hidden power calculator](https://www.pokemon-tools.com/bw/en/calc_hidden_power/)
