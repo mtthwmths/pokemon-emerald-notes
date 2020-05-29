@@ -627,7 +627,7 @@ exarion gives the frame that he uses to get modest Latios, but I already selecte
 #### Feebas
 at some point I would like to have a milotic so that means I'll have to go on the feebas hunt *groan*...
 
-see the appendix for the [feebas map](######feebas) that I used.
+see the appendix for the feebas map that I used.
 
 #### EV Notes
 
@@ -762,6 +762,6 @@ Special Types: In Generations I to III, when damage is being calculated for a mo
 - [serebii natures chart](https://www.serebii.net/games/natures.shtml)
 - [emerald safari extension area guide](http://www.psypokes.com/emerald/safari.php)
 
-######feebas
+### Feebas
 - [akhil pillai comment on finding feebas](https://www.quora.com/In-Pokemon-Emerald-how-do-you-catch-Feebas)
   * [map from that comment that I used to cross off the squares as I went](https://qph.fs.quoracdn.net/main-qimg-d326e207175a5fe3625614bd264700b5)
