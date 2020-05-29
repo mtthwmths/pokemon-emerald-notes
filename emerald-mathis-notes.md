@@ -668,59 +668,59 @@ Special Types: In Generations I to III, when damage is being calculated for a mo
   + Water
 
 
-#### magical move-disks and where to find them:
+#### Magical Move-Disks and Where to Find Them:
 - TM 1, Focus Punch: The route above Rustborough, Surf.
-- TM 2, Dragon Claw: Inside Meteror Falls
+- TM 2, Dragon Claw: Inside Meteor Falls
 - TM 3, Water Pulse: Beat Juan
 - TM 4, Calm Mind: Beat Tate & Liza
-- TM 5, Roar: Talk to Old Man with Pochyena next to him, Left of Falabour
-- TM 6, Toxic: Firery Path, past Strengh Boulder
-- TM 7, Hail: Inside Shail Cave
+- TM 5, Roar: Talk to Old Man with Poochyena next to him, Left of Fallarbor
+- TM 6, Toxic: Fiery Path, past Strength Boulder
+- TM 7, Hail: Inside Shoal Cave
 - TM 8, Bulk Up: Beat Brawly
 - TM 9, Bullet Seed: Route 104
-- TM 10, Hidden Power: Answer Old Lady in tree house in Foretree's Riddle, then you can get it at Slatepost Market.
-- TM 11, Sunny Day: Route to the right of Foretree, first pond.
+- TM 10, Hidden Power: Answer Old Lady in tree house in Fortree's riddle, then you can get it at Slateport Market.
+- TM 11, Sunny Day: Route to the right of Fortree, first pond.
 - TM 12, Taunt: Trick House, Fourth Time
 - TM 13, Ice Beam: Game Corner, 4000 Coins/Abandoned Ship
-- TM 14, Blizzard: Lily Cove Dept Store, $5500
+- TM 14, Blizzard: Lily Cove Dept. Store, $5500
 - TM 15, Hyper Beam: " " $7500
 - TM 16, Light Screen: " " $3000
 - TM 17, Protect: " " $3000
 - TM 18, Rain Dance: Abandoned Ship
 - TM 19, Giga Drain: Route below Mt Pyre, Talk to girl (I think)
-- TM 20, Safe Guard: Lilycove Dept Store: $3000
+- TM 20, Safe Guard: Lilycove Dept. Store: $3000
 - TM 21, Frustration: Fan Club Leader
 - TM 22, Solar Beam: Safari Zone
 - TM 23, Iron Tail: Meteor Falls
 - TM 24, Thunderbolt: Switch off New Mauville's generator/Game Corner: 4000 Coins
-- TM 25, Thunder: Lilycove Dept Store: $5500
+- TM 25, Thunder: Lilycove Dept. Store: $5500
 - TM 26, Earthquake: Team Aqua Base (Seafloor)
 - TM 27, Return: Return Meteor to Prof Cosmos/Pokemon Fanclub Leader
-- TM 28, Dig: Kid in the house with big hole in wall (Falabour)
+- TM 28, Dig: Kid in the house with big hole in wall (Fallarbor)
 - TM 29, Psychic: Victory Road/Game Corner: 3500 Coins
 - TM 30, Shadow Ball: Mt Pyre
 - TM 31, Sootopolis
-- TM 32, Double Team: Lilycove Dept Store: $3000
+- TM 32, Double Team: Lilycove Dept. Store: $3000
 - TM 33, Reflect: " "
 - TM 34, Shockwave: Beat Watson
 - TM 35, Flame Thrower: Game Corner: 4000 Coins
 - TM 36, Sludge Bomb: Dewford after beating Norman
 - TM 37, Sand Storm: Desert
-- TM 38, Fire Blast: Lilycove Dept Store: $5500
+- TM 38, Fire Blast: Lilycove Dept. Store: $5500
 - TM 39, Rock Tomb: Beat Roxanne
 - TM 40, Aerial Ace: Beat Winona
 - TM 41, Torment: Slateport Battle Tent
 - TM 42, Facade: Beat Norman
 - TM 43, Secret Power: Talk to guy standing next to Secret Base Tree (Route Above Mauville)
-- TM 44, Rest: Talk to fat guy in House (Lilycove
+- TM 44, Rest: Talk to fat guy in House (Lilycove)
 - TM 45, Attract: Verdanturf Battle Tent
-- TM 46, Theif: Agua Grunt in Slateport Museum
+- TM 46, Thief: Agua Grunt in Slateport Museum
 - TM 47, Steel Wing: Talk to Steven in Granite Cave
 - TM 48, Skill Swap: Mt Pyre
-- TM 49, Snatch: Battle Fronteir Ferry
-- TM 50, Overheat: Bea Flanery
+- TM 49, Snatch: Battle Frontier Ferry
+- TM 50, Overheat: Beat Flannery
 - HM 1, Cut: Talk to guy in house next to Poke Centre in Rustborough
-- HM 2, Fly: Beat Rival before Foretree
+- HM 2, Fly: Beat Rival before Fortree
 - HM 3, Surf: Get off Wally's father after beating Norman
 - HM 4, Strength: Break rocks in Rusturf Tunnel
 - HM 5, Flash: Talk to hiker in Granite Cave
@@ -731,7 +731,7 @@ Special Types: In Generations I to III, when damage is being calculated for a mo
 ## APPENDIX
 ### Battle Frontier links used:
 - [exarion FAQ](https://pastebin.com/yuqe33y9)
-  * these are exarion's FAQs for specific battle frontier buildings and I'm putting a summary in parentheses.
+  * These are Exarion's FAQs for specific battle frontier buildings and I'm putting a summary in parentheses.
   * [Battle Factory](https://pastebin.com/zKjeJSMt)
   (frame clusters for skipping pokemon)
   * [Battle Pyramid](https://pastebin.com/scidhJzc)
@@ -754,12 +754,14 @@ Special Types: In Generations I to III, when damage is being calculated for a mo
 - [stoneDos95 walkthrough and some pokemon sets](https://www.smogon.com/forums/threads/emerald-battle-frontier-guide-please-help-developing.3579762/)
 (this thread is a goldmine of sets that real people have used and deserves at least a day to sift through...)
 - [smogon battle pyramid wild pokemon](http://www.smogon.com/ingame/bt/battle_pyramid)
+(useful to have open so you can bring pokemon that will address specific 'rounds')
 - [comment detailing where to get all the TM's](https://www.supercheats.com/gameboyadvance/questions/pokemonemerald/78590/where-can-you-get-the-best-tms.htm)
 - [smogon ev training guide](https://www.smogon.com/ingame/guides/emerald_ev_manual)
 - [hidden power calculator](https://www.pokemon-tools.com/bw/en/calc_hidden_power/)
 - [how hidden power works](https://bulbapedia.bulbagarden.net/wiki/Hidden_Power_(move)/Calculation)
 - [serebii natures chart](https://www.serebii.net/games/natures.shtml)
 - [emerald safari extension area guide](http://www.psypokes.com/emerald/safari.php)
+
 ######feebas
 - [akhil pillai comment on finding feebas](https://www.quora.com/In-Pokemon-Emerald-how-do-you-catch-Feebas)
   * [map from that comment that I used to cross off the squares as I went](https://qph.fs.quoracdn.net/main-qimg-d326e207175a5fe3625614bd264700b5)
