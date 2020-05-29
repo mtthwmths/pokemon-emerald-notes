@@ -627,7 +627,7 @@ exarion gives the frame that he uses to get modest Latios, but I already selecte
 #### Feebas
 at some point I would like to have a milotic so that means I'll have to go on the feebas hunt *groan*...
 
-see the appendix for the feebas map that I used.
+see the appendix for the [feebas](#feebas-1) map that I used.
 
 #### EV Notes
 
