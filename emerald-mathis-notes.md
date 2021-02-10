@@ -457,6 +457,36 @@ frozen effect gives a brief breakdown of how to use his silver team
 #### breeding
 I should get a bunch of dittos, one per nature...
 
+Let's talk dittos.
+
+> So, you find them in the back of the Fossil Maniac's house in Fallarbor town. Just take a boatload of ultra balls and go catch them with reckless abandon. Fill up 3 boxes. You'll have to catch more than you think you will.
+
+You'll want to know where the IV judge is in the Battle Frontier for really getting in the weeds with this breeding thing. It's the house directly above the Pokemon Center, and he's the man seated on the left.
+
+He'll say some things about whatever pokemon you choose from your party, and that's as transparent as the IV's can get in Gen3. In the immortal words of Zuko, "That's rough buddy".
+
+So, here's the table from bulbapedia that has what his words mean:
+
+> Overall IV Total Ratings
+>
+> Phrase|IV total
+> ----|----
+> average|0-90
+> better-than-average|91-120
+> quite impressive|121-150
+> outstanding|151-186
+>
+> Highest Stat
+>
+> Phrase|Range
+> ----|----
+> relatively good|0-15
+> quite impressive|16-25
+> outstanding| 25-30
+> flawless|31
+
+
+
 #### Matt's big 3
 I didn't start with mudkip, so I have a problem with the exarion strategy...
 
