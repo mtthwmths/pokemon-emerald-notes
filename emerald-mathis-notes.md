@@ -458,7 +458,51 @@ frozen effect gives a brief breakdown of how to use his silver team
 I should probably add my berry info in here too.
 
 #### breeding
-I should get a bunch of dittos, one per nature...
+I should get a bunch of dittos, one per nature...Better yet, get a set of 6 for IV breeding for each nature. (groans in time spent)
+
+Let's talk dittos.
+
+> So, you find them in the back of the Fossil Maniac's house in Fallarbor town. Just take a boatload of ultra balls and go catch them with reckless abandon. Fill up 3 boxes. You'll have to catch more than you think you will. You're gonna do this for EACH NATURE that you are planning to IV breed for. You'll want 6 dittos of that nature with 31 IV in one of each stat.
+>
+> Good way to get dittos in emerald is to have a ralts/natu at the front of your party that has synchronize. This gives a 50%(I think) chance of the wild pokemon encountered to have the same nature. but really use a natu, ralts is pretty rare and natu is easier to catch for sure. or, sure, just to be difficult you could go catch an army of ralts to catch the dittos with... only to discard them after, you masochist.
+>
+> Side Note about catching this natu...
+> + go to the safari zone area where natu shows up and use a pokeblock of a certain flavor  in the bait traps to get the nature you want.
+>
+> flavor | natures | berries
+> ---- | ---- | ----
+> spicy | lonely adamant naughty Brave | cheri
+> sour | bold, impish, lax, relaxed | aspear
+> dry | modest, mild, rash, quiet | chesto
+> bitter | calm, gentle, careful, Sassy | rawst
+> sweet | timid, hasty, jolly, naive | pecha
+
+Then, you'll want to know where the IV judge is in the Battle Frontier for really getting in the weeds with this breeding thing. It's the house directly above the Pokemon Center, and he's the man seated on the left.
+
+He'll say some things about whatever pokemon you choose from your party, and that's as transparent as the IV's can get in Gen3. In the immortal words of Zuko, "That's rough buddy".
+
+So, here's the table from bulbapedia that has what his words mean:
+
+> Overall IV Total Ratings
+>
+> Phrase|IV total
+> ----|----
+> average|0-90
+> better-than-average|91-120
+> quite impressive|121-150
+> outstanding|151-186
+>
+> Highest Stat
+>
+> Phrase|Range
+> ----|----
+> relatively good|0-15
+> quite impressive|16-25
+> outstanding| 25-30
+> flawless|31
+
+so now you have your 6 ditto for whatever nature you needed to get started breeding the pokemon you were after in the first place. (takes deep breath before continuing.)
+
 
 TODO: add all the breeding links I have used and some quick notes about passing down moves and natures from parents in gen 3.
 
@@ -564,11 +608,19 @@ ev's?
 **final decision(for now)**
 
 - Quagsire (caught in safari zone extension, see above)
-  * (leftovers) Sassy EVs[110/56/16/216/113]
+  * (leftovers) Sassy EVs[110/56/16/216/113/0]
   * surf (HM, duh)
   * earthquake (wooper lv. 36/ quagsire lv. 42)
   * ice beam (tm13, 4000c mauville game corner)
   * protect (lilycove dept store 3000p$)
+
+> so to get this sassy Quagsire, you can use a natu/ralts with synchro and the nature you want in the safari zone and catch one that way.
+>
+> then for IV breeding purposes, you need a female with the correct nature and an everstone.
+>
+>OR
+>
+>you need any old male quagsire and a ditto with the correct nature and some mega IVs in SpAtk aaaandd Atk.
 
 **Latios and Metagross Planning**
 
@@ -589,7 +641,7 @@ now then, let's look at those movesets...
   - shadow ball (tm30)
   - explosion (move tutor in pacifildog)
 
-that's a *looot* of single use tm and move tutor usage... makes me sad... wonder if there are alternatives...
+that's a *looot* of single use tm and move tutor usage... makes me sad... wonder if there are alternatives... If there's not, you can pass on TM and Move Tutor moves through breeding. This means if you plan carefully and only apply the single use moves to Male pokemon, they will still be available for breeding Battle Factory pokemon in the future.
 
 **latios alternatives**
 
@@ -734,7 +786,7 @@ Special Types: In Generations I to III, when damage is being calculated for a mo
 - HM 8, Dive: Get off Steven after beating Tate and Liza
 
 ## APPENDIX
-### Battle Frontier links used:
+### BattleFrontier_links:
 - [exarion FAQ](https://pastebin.com/yuqe33y9)
   * These are Exarion's FAQs for specific battle frontier buildings and I'm putting a summary in parentheses.
   * [Battle Factory](https://pastebin.com/zKjeJSMt)
@@ -761,7 +813,12 @@ Special Types: In Generations I to III, when damage is being calculated for a mo
 - [smogon battle pyramid wild pokemon](http://www.smogon.com/ingame/bt/battle_pyramid)
 (useful to have open so you can bring pokemon that will address specific 'rounds')
 
-### random links
+### breeding_links
+- [psypoke liberry](http://www.psypokes.com/rsefrlg/berrystats.php)
+- [smogon breeding part 2](https://www.smogon.com/ingame/guides/breeding_guide_part2)
+- [very good reddit comment](https://www.reddit.com/r/Pokemonbreeding/comments/9hk93x/gen_3_breeding_guide/e6cors8/)
+
+### random_links
 - [comment detailing where to get all the TM's](https://www.supercheats.com/gameboyadvance/questions/pokemonemerald/78590/where-can-you-get-the-best-tms.htm)
 - [smogon ev training guide](https://www.smogon.com/ingame/guides/emerald_ev_manual)
 - [hidden power calculator](https://www.pokemon-tools.com/bw/en/calc_hidden_power/)
