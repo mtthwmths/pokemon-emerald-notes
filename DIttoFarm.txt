@@ -360,5 +360,120 @@ Ditto90
 
 Ditto91
 - avg
-- spd: qi
+- spd qi
 
+Ditto 92
+- bta
+- spd out
+
+ditto 93
+- avg
+- atk qi
+
+ditto 94
+- bta
+- spd qi
+
+ditto95
+- qi
+- hp flawless
+
+ditto96
+- avg
+- hp out
+
+ditto97
+- avg
+- spd rg
+
+ditto98
+- bta
+- spatk out
+
+ditto99
+- avg
+- spdef out
+
+- ditto100
+- avg
+- spdef qi
+
+- ditto101
+- avg
+- def qi
+
+- ditto102
+- bta
+- atk out
+
+- ditto 103
+- avg
+- def qi
+
+- ditto 104
+- qi
+- def out
+
+- ditto 105
+- bta
+- atk flawless
+
+- ditto 106
+- avg
+- spd out
+
+- ditto 107
+- bta 
+- atk qi
+
+- ditto 108
+- avg 
+- def qi
+
+- d109
+- bta
+- hp flawless
+
+- 110
+- avg
+- hp qi
+
+- 111
+- bta
+- atk out
+
+- 112
+- bta
+- def out
+
+- 113
+- avg
+- hp rg
+
+- 114
+- bta
+- def qi
+
+- 115
+- avg
+- def out
+
+- 116
+- qi
+- atk flawless
+
+- 117
+- avg
+- hp out
+
+- 118
+- bta
+- spd out
+
+- 119
+- bta 
+- spatk out
+
+- 120
+- qi
+- spd flawless
