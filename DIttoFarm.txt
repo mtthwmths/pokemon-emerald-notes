@@ -1,0 +1,364 @@
+Ditto1 
+ - better than average
+ - speed: outstanding
+
+Ditto2
+ - average
+ - defense: outstanding
+
+Ditto3
+ - average
+ - attack: outstanding
+
+Ditto4
+ - average
+ - hp: quite impressive
+
+Ditto5 
+ - average
+ - sp. atk: quite impressive
+
+Ditto6
+ - average
+ - defense: quite impressive
+
+Ditto7
+ - quite impressive
+ - spatk: outstanding
+
+Ditto8
+ - average
+ - speed: outstanding
+
+Ditto9
+ - better-than-average
+ - hp: perfection
+
+Ditto10
+ - better-than-average
+ - defense: outstanding
+
+Ditto11
+ - better-than-average
+ - spatk: outstanding
+
+Ditto12
+ - average
+ - speed: perfection
+
+Ditto13
+ - better-than-average
+ - speed: outstanding
+
+Ditto14
+ - better-than-average
+ - defense: outstanding
+
+Ditto15
+ - better-than-average
+ - attack: outstanding
+
+Ditto16
+ - quite impressive
+ - defense: outstanding
+
+Ditto17
+ - better-than-average
+ - attack: outstanding
+
+Ditto18
+ - average
+ - attack: relatively good
+
+Ditto19
+- BTA
+- SpAtk: outstanding
+
+Ditto20
+- avg
+- SpAtk: outstanding
+
+Ditto21
+- Quite Impressive
+- Atk: outstanding
+
+Ditto22
+- BTA
+- Spd: outstanding
+
+Ditto23
+- BTA
+- Def: outstanding
+
+Ditto 24
+- wonderfully outstanding
+- SpDef: flawless
+
+Ditto 25
+- avg
+- HP: outstanding
+
+Ditto26
+- BTA
+- Spd: flawless
+
+Ditto27
+- BTA
+- HP: outstanding
+
+Ditto28
+- avg
+- spd: outstanding
+
+Ditto29
+- quite impressive
+- HP: outstanding
+
+Ditto30
+- BTA
+- HP: outstanding
+
+Ditto31
+- avg
+- HP: outstanding
+
+Ditto32
+- BTA
+- HP: outstanding
+
+Ditto33
+- avg
+- SpDef: quite impressive
+
+Ditto34
+- BTA
+- SpDef: quite impressive
+
+Ditto35
+- BTA
+- SpAtk: flawless
+
+Ditto36
+- avg
+- Speed: relatively good
+
+Ditto37
+- average
+- SpAtk: outstanding
+
+Ditto38
+- BTA
+- SpAtk: outstanding
+
+Ditto39
+- avg
+- Spd: outstanding
+
+Ditto40
+- BTA
+- Def: quite impressive
+
+Ditto41
+- BTA
+- HP: outstanding
+
+Ditto42
+- quite impressive
+- atk: flawless
+
+Ditto43
+- average
+- Atk: quite impressive
+
+Ditto44
+- BTA
+- HP: outstanding
+
+Ditto 45
+- bta
+- SpAtk: outstanding
+
+Ditto46
+- average
+- SpDef: outstanding
+
+Ditto47
+- average
+- def: quite impressive
+
+Ditto48
+- BTA
+- atk: flawless
+
+Ditto49
+- BTA
+- HP: quite impressive
+
+Ditto50
+- average
+- spdef: quite impressive
+
+Ditto51
+- quite impressive
+- hp: outstanding
+
+Ditto52
+- bta
+- spatk: outstanding
+
+Ditto53
+- average
+- atk: outstanding
+
+Ditto54
+- average
+- def: outstanding
+
+Ditto55
+- average
+- spatk: quite impressive
+
+Ditto56
+- bta
+- atk: outstanding
+
+Ditto57
+- average
+- speed: quite impressive
+
+Ditto58
+- bta
+- hp: outstanding
+
+Ditto 59
+- average
+- atk: quite impressive
+
+Ditto60
+- quite impressive
+- spdef: outstanding
+
+Ditto61
+- bta
+- def: quite impressive
+
+Ditto62
+- quite impressive 
+- hp: outstanding
+
+Ditto63 
+- average
+- atk: quite impressive
+
+Ditto 64
+- average
+- speed: outstanding
+
+Ditto 65
+- quite impressive
+- spdef: outstanding
+
+Ditta 66
+- average
+- atk: outstanding
+
+Ditto67
+- bta
+- speed: flawless
+
+Ditto68
+- average
+- speed: flawless
+
+Ditto69
+- average
+- spatk: quite impressive
+
+Ditto 70
+- average
+- def: quite impressive
+
+Ditto 71
+- bta
+- spdef: outstanding
+
+Ditto72
+- bta
+- spatk: outstanding
+
+Ditto73
+- bta
+- spdef: qi
+
+Ditto74
+- average
+- hp: flawless
+
+Ditto75
+- avg
+- spd: outstanding
+
+Ditto76
+- bta
+- spdef: flawless
+
+Ditto 77
+- avg
+- spdef: qi
+
+Ditto78
+- avg
+- def: qi
+
+Ditto79
+- bta
+- spatk: flawless
+
+Ditto80
+- avg
+- spd: outstanding
+
+Ditto81
+- avg
+- spatk: flawless
+
+Ditto 82
+- bta
+- atk: outstanding
+
+Ditto83
+- avg
+- def: outstanding
+
+Ditto84
+- avg
+- hp: outstanding
+
+Ditto85
+- bta
+- def: out
+
+Ditto86
+- avg
+- spdef: qi
+
+Ditto 87
+- qi
+- spd: flawless
+
+Ditto88
+- bta
+- hp: out
+
+Ditto89
+- avg
+- atk: out
+
+Ditto90
+- bta
+- spatk: out
+
+Ditto91
+- avg
+- spd: qi
+

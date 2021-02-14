@@ -454,8 +454,13 @@ werster lists what frames he is shooting for to get certain stats.
 frozen effect gives a brief breakdown of how to use his silver team
 > The Team consists of a Physical Sweeper that can almost One-Shot everything with Double-Edge, a special Sweeper, with a wide coverage of moves and a Defensive Wall, that can Toxic Stall. Of course you can use whatever Team you want, the one mentioned above is just a suggestion. All of them have enough bulk to survive some hits in the early round, aswell as enough Power, to almost 0HKO the Pokemon in the first rounds. If there is something that Latios and Slaking cannot deal with, send in Milotiv, to Toxicstall that Pokemon.
 
+#### berries
+I should probably add my berry info in here too.
+
 #### breeding
 I should get a bunch of dittos, one per nature...
+
+TODO: add all the breeding links I have used and some quick notes about passing down moves and natures from parents in gen 3.
 
 #### Matt's big 3
 I didn't start with mudkip, so I have a problem with the exarion strategy...
@@ -763,6 +768,12 @@ Special Types: In Generations I to III, when damage is being calculated for a mo
 - [how hidden power works](https://bulbapedia.bulbagarden.net/wiki/Hidden_Power_(move)/Calculation)
 - [serebii natures chart](https://www.serebii.net/games/natures.shtml)
 - [emerald safari extension area guide](http://www.psypokes.com/emerald/safari.php)
+
+### breeding links
+
+### berry links
+- [G. Trejos berry guide on gamefaqs](https://gamefaqs.gamespot.com/gba/921905-pokemon-emerald-version/faqs/38369)
+
 
 ### Feebas
 - [akhil pillai comment on finding feebas](https://www.quora.com/In-Pokemon-Emerald-how-do-you-catch-Feebas)
